@@ -1,0 +1,1522 @@
+begin guide 
+image_file:images/
+Available aliases: 
+
+ (<:ssr:1383100216755880017>,  Class)
+
+
+Optimal star --->
+
+Relic ---> 
+
+Main Stats ---> 
+
+Enchants ---> 
+
+Gems ---> 
+
+Arclight ---> 
+end guide
+
+termination id = <:termination:1364649694571004064>
+vertmare id = <:vertmare:1364649702183665745>
+execution id = <:execution:1364649710681325628>
+desolation id = <:desolation:1364649704528412884>
+alchemy id = <:alchemy:1364650043092766780>
+champion id = <:champion:1364649698232766525>
+crimson id = <:crimson:1364649708169199616>
+hearthfire id = <:hearthfire:1364649706575106078>
+maxim id= <:maxim:1364649712388411412>
+red dragon id = <:red_dragon:1364649355818041444>
+stars id = <:stars_set:1364649696072827001>
+sterling id = <:sterling:1364649278865408051>
+sun set id = <:sunset:1364649692616724590>
+thunder id = <:thunder:1364649700598353960>
+warrior id = <:warrior:1364649690808717453>
+
+
+<:ssr:1383100216755880017>
+<:sr:1383100378647892100>
+<:r_:1383124859785318430>
+
+<:green_gem:1383125488381333654>
+<:red_gem:1383125048851824821>
+<:orange_gem:1383125181785964675>
+<:blue_gem:1383125343837356043>
+
+
+<:star:1383137564419952730>
+
+begin list
+Available aliases: ..b / ..build
+
+Syntax: ..build <character name>
+
+Example: ..b magebedo
+		 /build first_name: mage albedo
+
+Use this command to see how to build a specific character overall (relics, stats, enchants, gems, arclight) in the list bellow, feel free to ping Cellider for any suggestions.
+
+Special thanks to F2Lose, DTRyuF2P, Shanks and the MFTD community for helping with the characters build ❤️
+
+(All names and aliases are case insensitive, NAME = name)
+
+end list
+
+begin name list
+- 1st Seat
+- 9th Seat
+- Armorbedo
+- Aura
+- Bleed Lupusregina
+- Brain
+- Cocytus
+- Crush Lulu
+- CZ
+- Dark Nabe
+- Dark Renner
+- Eclair
+- Evileye
+- Gazef
+- Hamusuke
+- Healer Clementine
+- Healer Mare
+- Hilma
+- Icy Cocytus
+- Idol Shalltear
+- Lakyus
+- Maidbedo
+- Mage Albedo
+- Mage Demiurge
+- Mage Solution
+- Mare
+- Masked Shalltear
+- Momon
+- Pandora's Actor
+- Pestonya
+- Pinison
+- Platinum Dragon Lord's Armor (PDL)
+- Priest Albedo
+- Ranger Aura
+- Ranger Entoma
+- Ranger Momon
+- Renner
+- Sebas
+- Tank CZ
+- Tank Demiurge
+- Tank Hamusuke
+- Valkyrie Shalltear
+- Victim
+- Warrior Shalltear
+- Warrior Yuri
+- Yuri
+- Zaryusu
+- Zesshi
+end name list
+
+
+ZARYUSU
+
+
+begin guide lizard zaryusu zary liza 
+image_file:images/zaryusu.png
+Available aliases: Lizard, Zaryusu, Zary, Liza
+
+Zaryusu (<:ssr:1383100216755880017> Warrior Class)
+
+
+Optimal star ---> 6 <:star:1383137564419952730> so Zaryusu can do AoE clean buff from enemies
+
+Relic ---> <:vertmare:1364649702183665745> Vertmare, you want as much CD reduction as possible so he can freeze everyone
+
+Main Stats ---> SPD and EP, for secondary stats you can go for ATK, HP, but you want to really focus on SPD > EP
+
+Enchants ---> Focus on EP as you will also get SPD at level 6+, for secondary option you can go for ATK and "Stranded"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> EP% , <:orange_gem:1383125181785964675> SPD and <:blue_gem:1383125343837356043> CTR%
+
+Arclight ---> His own ex arclight
+
+end guide
+
+
+MAGEBEDO
+
+
+begin guide albedo magebedo freebedo mage albedo 
+image_file:images/magebedo.png
+Available aliases: Albedo, Magebedo, Freebedo, Mage Albedo
+
+Albedo (<:ssr:1383100216755880017> Mage Class)
+
+
+Optimal star ---> You get her shards form expedition for free, so doesnt matter
+
+Relic ---> <:desolation:1364649704528412884> Desolation if you are using Mage Demiurge comp to help with the burn stacks (and other DOTs)
+
+<:execution:1364649710681325628> Execution if you are using her for the damage
+
+Main Stats ---> EP > SPD > ATK, anything else its a bonus
+
+Enchants ---> Focus on main stats and focus on the one you're lacking on your relic, you also want "Play With Fire"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% and <:red_gem:1383125048851824821> EP%
+
+Arclight ---> Underworld forces is generally better for her, but you can use her ex arclight too
+
+Pro tip: dont dismantle her arc, because the amount of copies you can get are limited, just enough to fully unleash it
+
+end guide
+
+
+DEMI
+
+
+begin guide demi, magedemi, mdemi mage demiurge sableye 
+image_file:images/demiurge.png
+Available aliases: Demi, Magedemi, Mdemi, Mage Demiurge
+
+Demiurge (<:ssr:1383100216755880017> Mage Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> so Demiurge can do AoE stun more often
+
+Relic ---> <:execution:1364649710681325628> Execution, Demiurge will be inflicting a lot of debuffs
+
+Main Stats ---> ATK > EP > SPD > DMG BOOST, anything else is a bonus
+
+Enchants ---> Focus on ATK, you want "Play With Fire" and maybe "Stranded" if you happen to get it
+
+Gems --->  <:green_gem:1383125488381333654> ATK% and <:red_gem:1383125048851824821> EP%
+
+Arclight ---> His own ex arclight
+
+end guide
+
+
+HAMUSUKE
+
+
+begin guide hamster hamu hamusuke djungarian hamster 
+image_file:images/hamusuke.png
+Available aliases: Hamusuke, Hamu, Hamster
+
+Hamusuke (<:sr:1383100378647892100> Warrior Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for beast mode when entering battle (But since she is SR should be fairly easy to get to 6 <:star:1383137564419952730>)
+
+Relic ---> <:desolation:1364649704528412884> Desolation if you are using her with Mage Demiurge + Mage Albedo comp to help with the burns stacks
+
+<:alchemy:1364650043092766780> Alchemy anywhere else
+
+Main Stats ---> HP and defensive stats, you want Hamusuke to survive for as long as possible
+
+Enchants ---> If you're a F2P is not really worth it to use your enchants mats on her, but if you still want to go ahead and do it, focus on HP and defensive stats
+
+Gems ---> <:green_gem:1383125488381333654> HP% and <:red_gem:1383125048851824821> HP (full hp basically)
+
+Arclight ---> Her own ex arclight
+
+end guide
+
+
+MOMON
+
+
+begin guide momon overlord 
+image_file:images/momon.png
+Available aliases: Momon
+
+Momon (<:ssr:1383100216755880017> Warrior Class)
+
+
+Optimal star ---> 4 <:star:1383137564419952730> for more ult attacks, 6 <:star:1383137564419952730> enhances his ult
+
+Relic ---> <:stars_set:1364649696072827001> Stars set is more beneficial because of the chases
+
+<:termination:1364649694571004064> Termination to make ult go kaboom
+
+Main Stats ---> CRIT > ATK > CDMG > DMG BOOST
+
+Enchants ---> Focus on the stats you're lacking on the relics, you want "Hot Pursuit"
+
+Gems --->  <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% and <:blue_gem:1383125343837356043> CTR%
+
+Arclight ---> His own ex arclight
+
+Pro tip: if you get lvl 6+ on the CDMG enchant, Momon will be able to assist
+
+end guide
+
+
+WARRIOR SHALLTEAR
+
+
+begin guide warrior shalltear
+image_file:images/shalltear.png
+Available aliases: Shalltear, Warrior Shalltear
+
+Shalltear (<:ssr:1383100216755880017> Warrior Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> to clean all debuffs on ult
+
+Relic --->  <:termination:1364649694571004064> Termination or <:execution:1364649710681325628> Execution (Termination better)
+
+Main Stats ---> CRIT > ATK > CDMG > DMG BOOST
+
+Enchants ---> CRIT and ATK
+
+Gems ---> <:green_gem:1383125488381333654> ATK% and <:red_gem:1383125048851824821> CRIT%
+
+Arclight ---> Her own arclight
+end guide
+
+
+SHIELDTEAR
+
+
+begin guide mask masktear shieldtear honyonpoko masked shalltear mask shalltear priest shalltear no show seraphim 
+image_file:images/masktear.png
+Available aliases: Masktear, Mask, Shieldtear, Honyonpoko, Masked Shalltear, Mask Shalltear, Priest Shalltear
+
+Shalltear (<:ssr:1383100216755880017> Priest Class)
+
+
+Optimal star ---> 6 <:star:1383137564419952730> to give DMG BOOST and CDMG BOOST buffs
+
+Relic ---> We have 2 options here, you pick what you think is best:
+
+<:vertmare:1364649702183665745> Vertmare if you want shields to reset more often
+
+<:maxim:1364649712388411412> Maxim if you want to slowly get rid of debuffs (and more ER)
+
+Main Stats ---> ER and ATK, she scales a lot on both so you want as much of them as humanly possible, you may go for defensive stats and SPD as secondary options
+
+Enchants ---> ER and ATK, you also want "Iron Wall Protection"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> ER% , <:orange_gem:1383125181785964675> and <:blue_gem:1383125343837356043> on ATK
+
+Arclight ---> Her own ex arclight
+
+end guide
+
+
+BLEED LUPUS
+
+
+begin guide lupu bleed lupus bleed lupusregina blupu 
+image_file:images/bleed_lupus.png
+Available aliases: Lupu, Bleed Lupus, Bleed Lupusregina, Blupu
+
+Lupusregina (<:ssr:1383100216755880017> Warrior Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> to trigger bleeds
+
+Relic ---> <:termination:1364649694571004064> Termination, the defense nulifying stacks with her arclight, so massive damage
+
+<:execution:1364649710681325628> Execution only if you have a terrible Termination set
+
+<:crimson:1364649708169199616> Crimson set is also an option for Dragon stages on Peroroncino realm since you cant crit (Termination still better overall)
+
+Main Stats ---> ATK, EP and DMG BOOST, we want raw damage for her bleeds to do insane damage, for secondary stats it will be good if you happen to get CRIT
+
+Enchants ---> ATK and CRIT (you get DMG BOOST at lvl 6+), you also want "Riddled with Holes"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> EP% and <:blue_gem:1383125343837356043> CTR%
+
+Arclight ---> Her own ex arclight
+
+end guide
+
+
+ARMORBEDO
+
+
+begin guide armorbedo knightbedo kbedo knight albedo tank albedo tankbedo blank 
+image_file:images/armorbedo.png
+Available aliases: Armorbedo, Knightbedo, Kbedo, Tankbedo, Tank Albedo, Knight Albedo
+
+Albedo (<:ssr:1383100216755880017> Knight Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for PvE to apply DMG DOWN, 6 <:star:1383137564419952730> for PvP to give allies shield at start
+
+Relic ---> <:sterling:1364649278865408051> Sterling or <:warrior:1364649690808717453> Warrior (Sterling better)
+
+Main Stats ---> DEF > RDT > EP secondary stats are the other defensive stats like ER, HP
+
+Enchants ---> Focus on DEF and ER as that will give you RDT at lvl 6+ > other defensive stats, you also want "Iron Wall Protection"
+
+Gems ---> <:green_gem:1383125488381333654> DEF%, <:red_gem:1383125048851824821> if EP% (50%+) you can go for ER% instead of EP%, <:blue_gem:1383125343837356043> RDT%
+
+Arclight ---> Her own ex arclight or Fearless of Death
+
+end guide
+
+
+RENNER
+
+
+begin guide renner lana 
+image_file:images/renner.png
+Available aliases: Renner, Lana
+
+Renner (<:ssr:1383100216755880017> Priest Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> to cleanse debuffs for herself
+
+Relic ---> <:alchemy:1364650043092766780> Alchemy, <:maxim:1364649712388411412> Maxim, <:vertmare:1364649702183665745> Vertmare if you want an actual use for her set, but generally it doesnt matter for PvP, all you care about is the SPD stat, you may even use each relic from different sets if they have S SPD
+
+For PvE pick one of the above (<:alchemy:1364650043092766780> <:maxim:1364649712388411412> <:vertmare:1364649702183665745>)
+
+Main Stats ---> 
+
+PvP: SPD, for secondary is HP, but SPD is all you want on her
+
+PvE: HP > SPD
+
+Enchants ---> Get as much EP as you can, as that will increase her SPD
+
+Gems ---> <:green_gem:1383125488381333654> HP% , <:red_gem:1383125048851824821> HP and <:orange_gem:1383125181785964675> SPD
+
+Arclight ---> Her own ex arclight or Aura's Lunch (Her ex arclight is better go get rid of debuffs)
+
+end guide
+
+
+MARE
+
+
+begin guide mare mage mare mmare pizz little buddy
+image_file:images/mare.png
+Available aliases: Mare, Mage Mare, Mmare
+
+Mare (<:ssr:1383100216755880017> Mage Class)
+
+Optimal star ---> You already get free shards of Mare every weekend so doesnt really matter, but its 6 <:star:1383137564419952730>
+
+Relic ---> <:vertmare:1364649702183665745> Vertmare for turn metter reduction (usually used more for PvE)
+
+<:termination:1364649694571004064> Termination for DPS (usually used more for PvP)
+
+Main Stats ---> ATK > CRIT > CDMG > EP > DMG BOOST those are the stats that you need for him
+
+Enchants ---> Focus on ATK and CRIT, then the ones you're lacking the most on your relic, you also want "One Hit Kill"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% and <:blue_gem:1383125343837356043> PWR%
+
+Arclight ---> His own ex arclight
+end guide
+
+
+AURA
+
+
+begin guide aura warrior aura 
+image_file:images/aura.png
+Available aliases: Aura, Warrior Aura
+
+Aura (<:ssr:1383100216755880017> Warrior Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> so her chases last more
+
+Relic ---> <:stars_set:1364649696072827001> Stars, her damage will mainly come from constant chases
+
+Main Stats ---> ATK > SPD > DMG BOOST, anything else is a bonus, you don't need EP
+
+Enchants ---> ATK and "Hot Pursuit", anything else is a bonus
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> <:orange_gem:1383125181785964675> <:blue_gem:1383125343837356043> ATK
+
+Arclight ---> Her own ex arclight
+end guide
+
+
+RANGER AURA
+
+
+begin guide shock aura ranger aura raura geo aura 
+image_file:images/ranger_aura.png
+Available aliases: Ranger Aura, Geo Aura, Shock Aura, Raura
+
+Aura (<:ssr:1383100216755880017> Ranger Class)
+
+Optimal star ---> 5 <:star:1383137564419952730> so she can start stunning very often
+
+Relic ---> <:termination:1364649694571004064> Termination, you may also use <:thunder:1364649700598353960> Thunder if you dont have any good Termination set
+
+Main Stats ---> CRIT and CDMG > ATK and some EP, Ranger Aura needs to crit for her stuns, so make sure her crit is sitting at 70%-80% that is the most important stat
+
+Enchants ---> Focus on CRIT and CDMG, you will also want "Thunderous Surge" >> "Stranded" if you happen to be lucky
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% / CDMG% and <:blue_gem:1383125343837356043> ASR%
+
+Arclight ---> Picnic or Boost Morale (Picnic better, her ex arclight is not that great but you can use it if you lack the others)
+end guide
+
+
+MAIDBEDO
+
+
+begin guide maidbedo maid albedo love albedo valentine albedo hazy 
+image_file:images/maidbedo.png
+Available aliases: Maidbedo, Maid Albedo, Love Albedo, Valentine Albedo
+
+Albedo (<:ssr:1383100216755880017> Ranger Class)
+
+
+Optimal star ---> 6 <:star:1383137564419952730> for big damage on ult
+
+Relic ---> <:termination:1364649694571004064> Termination, because she is an assist unit you might think <:stars_set:1364649696072827001> Stars is better, but her skills revolve around nulifying enemy defense, so Termination will help on that
+
+Main Stats ---> CRIT and CDMG > ATK > DMG BOOST, anything else is a bonus
+
+Enchants ---> CRIT and CDMG > ATK, you also want "Hot Pursuit"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% / CDMG% and <:blue_gem:1383125343837356043> ASR%
+
+Arclight ---> Her own ex arclight or Picnic (Picnic is better)
+
+end guide
+
+
+VALKTEAR
+
+
+begin guide valk valktear valkyrie shalltear valkyrie 
+image_file:images/valktear.png
+Available aliases: Valk, Valktear, Valkyrie Shalltear, Valkyrie
+
+Shalltear (<:ssr:1383100216755880017> Knight Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for TM DELAY on 2nd skill
+
+Relic ---> <:champion:1364649698232766525> Champion for overall tank and survive more
+
+<:red_dragon:1364649355818041444> Red Dragon if you want to ult to heal and DEF DOWN more often
+
+<:alchemy:1364650043092766780> Alchemy for more buffs and support
+
+<:sterling:1364649278865408051> Use Sterling as a last resource
+
+Main Stats ---> HP > ER > RDT, for the secondary stats you want other defensive stats
+
+Enchants ---> Focus on HP and ER > other main stats, you may also want "Almighty Penetration", but it isnt really that important, you will be more than fine without it
+
+Gems ---> <:green_gem:1383125488381333654> HP%, <:red_gem:1383125048851824821> ER%, <:orange_gem:1383125181785964675> HP and <:blue_gem:1383125343837356043> RDT%
+
+Arclight ---> Her own ex arclight or Fearless of Death
+end guide
+
+
+TANK DEMI
+
+
+begin guide tank demi tank demiurge tdemi jaldabaoth jalda mask demi mega sableye tankdemi 
+image_file:images/tank_demi.png
+Available aliases: Tank Demi, Tank Demiurge, Tdemi, Jaldabaoth, Jalda, Mask Demi, Tankdemi
+
+Jaldabaoth (<:ssr:1383100216755880017> Knight Class)
+
+
+Optimal star ---> 4 <:star:1383137564419952730> for Blood Conqueal at start of battle
+
+Relic ---> <:champion:1364649698232766525> Champion so he survives longer
+
+<:desolation:1364649704528412884> Desolation if you need more EP and DoTs (including more bleed)
+
+Main Stats ---> HP > EP, secondary stats are other defensive stats, but get as much HP as you can
+
+Enchants ---> Focus on HP and some EP, if you get "Riddled with Holes" its pretty good, but not necessary outside a bleed team, you may also get ER as that will give RDT at lvl 6+
+
+Gems ---> <:green_gem:1383125488381333654> HP%, <:red_gem:1383125048851824821> ER%, <:orange_gem:1383125181785964675> HP and <:blue_gem:1383125343837356043> RDT%
+
+Arclight ---> His own ex arclight or Fearless of Death
+end guide
+
+
+GAZEF
+
+
+begin guide gazef gaz gazef stronoff 
+image_file:images/gazef.png
+Available aliases: Gazef, Gazef Stronoff, Gaz
+
+Gazef (<:ssr:1383100216755880017> Warrior Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> so his Duel lasts longer
+
+Relic ---> <:stars_set:1364649696072827001> Stars set, he will counter a lot and that will make him stronger
+
+Main Stats ---> CRIT and ATK > CDMG > DMG BOOST
+
+Enchants ---> Mainly focus on ATK, rest can be the other main stats, you may also want "Tit for Tat" for PvP
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% and <:blue_gem:1383125343837356043> CTR%
+
+Arclight ---> His own ex arclight
+end guide
+
+
+COCYTUS
+
+
+begin guide coc bleed coc cocytus bleed cocytus bcoc warrior coc warrior cocytus 
+image_file:images/coc.png
+Available aliases: Cocytus, Bleed Cocytus, Coc, Bleed Coc, Bcoc, Warrior Coc, Warrior Cocytus
+
+Cocyctus (<:ssr:1383100216755880017> Warrior Class)
+
+Optimal star ---> 5 <:star:1383137564419952730> for additional stacks of bleed
+
+Relic ---> <:execution:1364649710681325628> Execution for him to do more damage
+
+<:vertmare:1364649702183665745> Vertmare to spam ult
+
+Main Stats ---> ATK, EP and DMG BOOST
+
+Enchants ---> ATK, you also want "Riddled with Holes"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> EP% and <:blue_gem:1383125343837356043> CTR%
+
+Arclight ---> His own ex arclight
+end guide
+
+
+ICY COCYTUS
+
+
+begin guide icy cocytus icy coc tank coc tank cocytus icoc tcoc irrigatio 
+image_file:images/icy_coc.png
+Available aliases: Icy Cocytus, Icy Coc, Tank Coc, Tank Cocytus, Icoc, Tcoc
+
+Cocytus (<:ssr:1383100216755880017> Knight Class)
+
+
+Optimal star ---> 6 <:star:1383137564419952730> so he can give Indomitable to another ally
+
+Relic ---> <:red_dragon:1364649355818041444> Red Dragon for shield spam
+
+<:champion:1364649698232766525> Champion for healing
+
+Main Stats ---> HP, defensive stats and some SPD would be good
+
+Enchants ---> Focus on HP, you can get defensive stats including ER for RDT at lvl 6+, you also want "Iron Wall Protection"
+
+Gems ---> <:green_gem:1383125488381333654> HP%, <:red_gem:1383125048851824821> ER%, <:orange_gem:1383125181785964675> HP and <:blue_gem:1383125343837356043> RDT%
+
+Arclight ---> His own ex arclight or Fearless of Death
+end guide
+
+
+TANK YURI
+
+
+begin guide tank yuri yuri tyuri tank mommy mommy 
+image_file:images/yuri.png
+Available aliases: Yuri, Tank Yuri, Tyuri, Tank Mommy, Mommy
+
+Yuri Alpha (<:sr:1383100378647892100> Knight Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for SPD DOWN debuff (But since she is SR should be fairly easy to get to 6 <:star:1383137564419952730>)
+
+Relic ---> <:sterling:1364649278865408051> Sterling for more defense
+
+<:red_dragon:1364649355818041444> Red Dragon to ult and stun more often
+
+Main Stats ---> DEF and RDT > HP and other defensive stats, for PvP you can get speed
+
+Enchants ---> Focus on DEF > other defensive stats (HP, ER, RDT), for PvP you may also want to get EP lvl 6+ for more speed
+
+Gems ---> <:green_gem:1383125488381333654> HP%, <:red_gem:1383125048851824821> ER%, <:orange_gem:1383125181785964675> HP / SPD and <:blue_gem:1383125343837356043> RDT%
+
+Arclight ---> Her own ex arclight and Fearless of Death
+end guide
+
+
+WARRIOR YURI
+
+
+begin guide warrior yuri counter yuri wyuri cyuri counter mommy 
+image_file:images/wyuri.png
+Available aliases: Warrior Yuri, Counter Yuri, Wyuri, Cyuri, Counter Mommy
+
+Yuri (<:ssr:1383100216755880017> Warrior Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for more damage and damage reduction
+
+Relic ---> <:stars_set:1364649696072827001> Stars, since she will be countering very often
+
+Main Stats ---> CRIT > ATK > CDMG > DMG BOOST
+
+Enchants ---> Focus on main stats, you might also want "Iron Wall Protection", "Tit for Tat" only if you get lucky
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% and <:blue_gem:1383125343837356043> CTR%
+
+Arclight ---> Her own ex arclight
+end guide
+
+
+BRAIN
+
+
+begin guide brain :brain: 🧠 
+image_file:images/brain.png
+Available aliases: Brain
+
+Brain (<:sr:1383100378647892100> Warrior Class)
+
+
+Optimal star ---> 6 <:star:1383137564419952730> for High Tier Attack Down
+
+Relic ---> <:stars_set:1364649696072827001> Stars for counters
+
+<:desolation:1364649704528412884> Desolation if you want to inflict lots of DoTs
+
+Main Stats ---> CRIT > ATK > EP > CDMG, you want EP so Brain can inflict "High-Tier ATK Down"
+
+Enchants ---> Main stats, focus on the ones you are lacking in your relics, you may also want "Iron Wall Protection" if you're using him with Warrior Yuri, "Tit for Tat" is good if you get lucky, but not necessary
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% and <:blue_gem:1383125343837356043> CTR%
+
+Arclight ---> His own ex arclight
+end guide
+
+
+PDL
+
+
+begin guide pdl platinum dragon lord's armor platinum steven 
+image_file:images/pdl.png
+Available aliases: Platinum Dragon Lord's Armor, PDL, Platinum
+
+Platinum Dragon Lord's Armor (<:ssr:1383100216755880017> Knight Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> so the ult lasts longer, 6 <:star:1383137564419952730> for stun on 2nd skill
+
+Relic ---> <:sterling:1364649278865408051> Sterling for defense
+
+<:red_dragon:1364649355818041444> Red Dragon to ult more often
+
+Main Stats ---> DEF > HP, secondary stats are defensive stats (RDT, ER)
+
+Enchants ---> Focus on DEF > HP, you also want "Iron Wall Protection" and ER for RDT at lvl 6+
+
+Gems ---> <:green_gem:1383125488381333654> DEF%, <:red_gem:1383125048851824821> ER% and <:blue_gem:1383125343837356043> RDT%
+
+Arclight ---> His own ex arclight or Fearless of Death
+end guide
+
+
+IDOLTEAR
+
+
+begin guide idol shalltear idoltear idol 
+image_file:images/idol.png
+Available aliases: Idol Shalltear, Idoltear, Idol
+
+Shalltear (<:ssr:1383100216755880017> Mage Class)
+
+
+Optimal star ---> 6 <:star:1383137564419952730> so she can get a lot of stacks
+
+Relic ---> <:termination:1364649694571004064> Termination is better overall
+
+<:thunder:1364649700598353960> Thunder is a second option for nukes
+
+Main Stats ---> ATK and CRIT > CDMG, you also want a bit of EP so Idol Shalltear can inflict her debuffs (Heal Block, Buff Block, etc...)
+
+Enchants ---> Focus on main stats, you also want "One Hit Kill"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% and <:blue_gem:1383125343837356043> PWR%
+
+Arclight ---> Her own ex arclight
+end guide
+
+
+PESTONYA 
+
+
+begin guide pestonya pesto dog 
+image_file:images/dog.png
+Available aliases: Pestonya, Pesto, Dog
+
+Pestonya (<:ssr:1383100216755880017> Priest Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for High Tier ATK Boost, 6 <:star:1383137564419952730> for more TM BOOST
+
+Relic ---> You can use a set of relics, you decide which one you want to use:
+
+<:alchemy:1364650043092766780> Alchemy - for more buffs
+
+<:maxim:1364649712388411412> Maxim - to slowly clean debuffs
+
+<:hearthfire:1364649706575106078> Hearthfire - to heal more
+
+<:vertmare:1364649702183665745> Vertmare - to heal more often
+
+Main Stats ---> HP and defensive stats, you could use a bit of EP, but not that important
+
+Enchants ---> HP and CDMG RES (CDMG RES at lvl 6+ you get Healing Up)
+
+Gems ---> <:green_gem:1383125488381333654> HP% , <:red_gem:1383125048851824821> ER% and <:blue_gem:1383125343837356043> HB%
+
+Arclight ---> Her own ex arclight
+end guide
+
+
+HEALER MARE
+
+
+begin guide healer mare hmare priest mare geo mare cutemare 
+image_file:images/healer_mare.png
+Available aliases: Healer Mare, Geo Mare, Priest Mare, Hmare, Cutemare
+
+Mare (<:ssr:1383100216755880017> Priest Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for more survivability, 6 <:star:1383137564419952730> to cleanse even more debuffs on ult
+
+Relic ---> You can use a set of relics, you decide which one you want to use:
+
+<:alchemy:1364650043092766780> Alchemy - for more buffs
+
+<:maxim:1364649712388411412> Maxim - to slowly clean debuffs (I dont recommend using Maxim since his skill already cleanses debuffs)
+
+<:hearthfire:1364649706575106078> Hearthfire - to heal more
+
+<:vertmare:1364649702183665745> Vertmare - to heal more often
+
+Main Stats ---> HP and defensive stats, you could use a bit of EP, but not that important
+
+Enchants ---> HP and CDMG RES (CDMG RES at lvl 6+ you get Healing Up)
+
+Gems ---> <:green_gem:1383125488381333654> HP% , <:red_gem:1383125048851824821> ER% and <:blue_gem:1383125343837356043> HB%
+
+Arclight ---> Aura's Lunch or ex arclight
+end guide
+
+
+CRUSH LULU
+
+
+begin guide crush lulu 
+image_file:images/crush_lulu.png
+Available aliases: Crush Lulu, Crush, Lulu
+
+Crush Lulu (<:ssr:1383100216755880017> Priest Class)
+
+
+Optimal star ---> idk i dont have lulu to check
+
+Relic ---> You can use a set of relics, you decide which one you want to use:
+
+<:alchemy:1364650043092766780> Alchemy - for more buffs
+
+<:maxim:1364649712388411412> Maxim - to slowly clean debuffs
+
+<:hearthfire:1364649706575106078> Hearthfire - to "heal" more
+
+<:vertmare:1364649702183665745> Vertmare - to "heal" more often
+
+Main Stats ---> HP and defensive stats, you can also get a bit of ATK but not important
+
+Enchants ---> HP and CDMG RES (CDMG RES at lvl 6+ you get Healing Up), ER is also useful
+
+Gems ---> <:green_gem:1383125488381333654> HP% , <:red_gem:1383125048851824821> ER% and <:blue_gem:1383125343837356043> HB%
+
+Arclight ---> Her own ex arclight
+end guide
+
+
+EVILEYE
+
+
+begin guide ee evileye 
+image_file:images/ee.png
+Available aliases: Evileye, EE
+
+Evileye (<:ssr:1383100216755880017> Mage Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for more damage on ult
+
+Relic ---> <:crimson:1364649708169199616> Crimson or <:termination:1364649694571004064> Termination
+
+Main Stats ---> ATK and SPD, she is quite simple all you need is raw damage since Evileye is naturally unable to crit
+
+Enchants ---> ATK, focus on her damage, you also want "One Hit Kill"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> <:orange_gem:1383125181785964675> ATK  and <:blue_gem:1383125343837356043> PWR%
+
+Arclight ---> Her own ex arclight
+end guide
+
+
+1ST SEAT
+
+
+begin guide 1st seat black scripture teach  
+image_file:images/black.png
+Available aliases: 1st Seat, Black Scripture, Black
+
+The Black Scripture 1st Seat (<:ssr:1383100216755880017> Warrior Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for buff block on ult
+
+Relic ---> <:termination:1364649694571004064> Termination
+
+Main Stats ---> CRIT > ATK > CDMG > DMG BOOST, you might also want some EP but not important
+
+Enchants ---> Focus on the main stats, with the ones you're lacking on the relics
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT%
+
+Arclight ---> His own ex arclight
+end guide
+
+
+CZ
+
+
+begin guide cz ranger cz f2lose 
+image_file:images/cz.png
+Available aliases: CZ, Ranger CZ
+
+CZ (<:sr:1383100378647892100> Ranger Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for SPD UP buff (But since she is SR should be fairly easy to get to 6 <:star:1383137564419952730>)
+
+Relic ---> <:termination:1364649694571004064> Termination
+
+Main Stats ---> CRIT > ATK > CDMG > DMG BOOST, you might also want some EP to inflict bleed
+
+Enchants ---> Don't even dare, but if you do focus on main stats, you can also get "Riddled with Holes"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% and <:red_gem:1383125048851824821> CRIT% / CDMG%
+
+Arclight ---> Her own ex arclight
+end guide
+
+
+HILMA
+
+
+begin guide hilma 
+image_file:images/hilma.png
+Available aliases: Hilma
+
+Hilma (<:r_:1383124859785318430> Priest Class)
+
+
+Optimal star ---> doesnt matter, you probably have her at 6 <:star:1383137564419952730> anyway
+
+Relic ---> Doesnt matter, all you want is as much SPD as possible, but make sure to max her passive skill for the TM BOOST
+
+If you still wanna get an use for her relic, go for <:alchemy:1364650043092766780> Alchemy
+
+Main Stats ---> SPD and only that
+
+Enchants ---> Please never used this bot again if you enchant her relics, but get as much EP as you can as that will give Hilma more SPD on lvl 6+
+
+Gems ---> <:orange_gem:1383125181785964675> SPD
+
+Arclight ---> Doesn't matter
+end guide
+
+
+ENTOMA
+
+
+begin guide entoma mage entoma magetoma shock entoma shocktoma
+image_file:images/entoma.png
+Available aliases: Entoma, Mage Entoma, Magetoma, Shock Entoma, Shocktoma
+
+Entoma (<:sr:1383100378647892100> Mage Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for permanent speed buff on ult (But since she is SR should be fairly easy to get to 6 <:star:1383137564419952730>)
+
+Relic ---> <:desolation:1364649704528412884> Desolation for more EP and DoT
+
+<:termination:1364649694571004064> Termination for more damage
+
+<:vertmare:1364649702183665745> Vertmare for more AoE
+
+Main Stats ---> ATK > CRIT > SPD > CDMG > EP
+
+Enchants --->  If you're a F2P is not really worth it to use your enchants mats on her, but if you still want to go ahead and do it, focus on ATK > CRIT or ATK, "One Hit Kill" would also be usefull
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% and <:blue_gem:1383125343837356043> PWR%
+
+Arclight ---> Her own ex arclight
+end guide
+
+
+RANGER ENTOMA
+
+
+begin guide ranger entoma rangertoma bleed entoma bleedtoma ranger toma bleed toma cutetoma babula cellider 
+image_file:images/ranger_toma.png
+Available aliases: Ranger Entoma, Rangertoma, Bleed Entoma, Bleedtoma, Ranger Toma, Bleed Toma, Cutetoma
+
+Entoma (<:ssr:1383100216755880017> Ranger Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> to trigger bleed on tanks
+
+Relic ---> <:termination:1364649694571004064> Termination for CRIT And Nulify Defense
+
+<:execution:1364649710681325628> Execution for ATK and she apply debuffs, so more damage
+
+Main Stats ---> CRIT > ATK > EP > CDMG > DMG BOOST
+
+Enchants ---> Riddled > ATK, CRIT > CDMG
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% / CDMG% and <:blue_gem:1383125343837356043> ASR%
+
+Arclight ---> Her own ex arclight or Picnic (ex is way better)
+end guide
+
+
+TANK CZ
+
+
+begin guide tank cz knight cz tank 
+image_file:images/tank_cz.png
+Available aliases: Tank CZ, Knight CZ, CZ Tank
+
+CZ (<:ssr:1383100216755880017> Knight Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for a lot of supplies
+
+Relic ---> <:red_dragon:1364649355818041444> Red Dragon for skill CD (better PvP wise)
+
+<:champion:1364649698232766525> Champion for more sustain and survival (better PvE wise)
+
+Additionally, for PvP you can also just use whatever relic piece has S 10+ SPD
+
+Alchemy is also an option for boss battles
+
+Main Stats ---> 
+
+PvP: SPD > MDEF > EP and other defensive stats
+
+PvE: MDEF and defensive stats > SPD > EP
+
+Enchants ---> MDEF and EP (as that will give you more SPD), you may also get other defensive stats, such as ER and HP
+
+Gems ---> <:green_gem:1383125488381333654> MDEF%, <:red_gem:1383125048851824821> EP%, <:orange_gem:1383125181785964675> SPD and <:blue_gem:1383125343837356043> RDT%
+
+Arclight ---> Her own ex arclight (must for her)
+end guide
+
+
+SOLUTION
+
+
+begin guide solution mommylution natsu 
+image_file:images/solution.png
+Available aliases: Solution, Mommylution
+
+Solution (<:sr:1383100378647892100> Ranger Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for buff block on ult (Tho its a <:sr:1383100378647892100> so shouldnt be hard to get her to 6 <:star:1383137564419952730>)
+
+Relic ---> <:termination:1364649694571004064> Termination for more damage
+
+<:vertmare:1364649702183665745> Vertmare to cleanse enemy buffs more often
+
+Main Stats ---> CRIT > CDMG > ATK > SPD > DMG BOOST
+
+Enchants ---> If you're a F2P is not really worth it to use your enchants mats on her, but if you still want to go ahead and do it, focus on CDMG > ATK or CRIT
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% / CDMG% and <:blue_gem:1383125343837356043> ASR%
+
+Arclight ---> Her ex arclight
+end guide
+
+
+MAGE SOLUTION
+
+
+begin guide mage solution magelution boobs butt slime mommy milkers kyros 
+image_file:images/mage_solution.png
+Available aliases: Mage Solution, Magelution, Boobs, Butt, Slime Mommy, Mommy Milkers
+
+Solution (<:ssr:1383100216755880017> Mage Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for more TM DELAY, 6 <:star:1383137564419952730> for crazy dmg
+
+Relic ---> <:termination:1364649694571004064> Termination or <:vertmare:1364649702183665745> Vertmare >> <:thunder:1364649700598353960> Thunder, she benefits more from Termination
+
+Main Stats ---> SPD and CRIT > ATK > EP since she needs her debuffs
+
+Enchants ---> ATK and EP (as that will give you more SPD)
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% / EP% , <:orange_gem:1383125181785964675> SPD and <:blue_gem:1383125343837356043> PWR%
+
+Arclight ---> Her own ex arclight
+end guide
+
+
+VICTIM
+
+
+begin guide victim fetus cute shanks 
+image_file:images/victim.png
+
+Available aliases: Victim, Fetus, Cute
+
+Victim (<:ssr:1383100216755880017> Mage Class)
+
+
+Optimal star ---> 4 <:star:1383137564419952730> for more stuns, 6 <:star:1383137564419952730> for crazy buffs
+
+Relic ---> <:termination:1364649694571004064> Termination overall
+
+<:vertmare:1364649702183665745> You may use Vertmare for PvE
+
+Main Stats --->  ATK and CRIT > CDMG > DMG BOOST, you need Victim to crit so make sure CRIT is high
+
+Enchants ---> ATK and CRIT > CDMG, you also want "One Hit Kill"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% and <:blue_gem:1383125343837356043> PWR%
+
+Arclight ---> His own ex arclight (must have or else he dies on sacrifice)
+end guide
+
+
+HEALER CLEMENTINE
+
+
+begin guide priest clementine healer clementine clem healer clem priest clem clementhighs tiuny 
+image_file:images/healer_clementine.png
+
+Available aliases: Priest Clementine, Healer Clementine, Clem, Healer Clem, Priest Clem, Clementhighs
+
+Clementine (<:ssr:1383100216755880017> Priest Class)
+
+
+Optimal star ---> 4 <:star:1383137564419952730> to get defensive buffs, 6 <:star:1383137564419952730> for heal at start
+
+Relic ---> <:hearthfire:1364649706575106078> Hearthfire for more heals
+
+<:vertmare:1364649702183665745> Vertmare to give immortality more often
+
+<:stars_set:1364649696072827001> Stars to increase damage on her chase (first 2 are probably more worth)
+
+Main Stats ---> As much HP as you can > ATK
+
+Enchants ---> As much HP as you can > ATK
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> ER% / HP , <:orange_gem:1383125181785964675> HP and <:blue_gem:1383125343837356043> HB% / HP
+
+Arclight ---> Her own ex arclight or Aura's Lunch
+end guide
+
+
+PANDORA'S ACTOR
+
+
+begin guide pandora actor pandora's actor pa 
+image_file:images/pandora.png
+Available aliases: Pandora's Actor, Pandora, Actor, PA
+
+Pandora's Actor (<:ssr:1383100216755880017> Priest Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> to cleanse debuffs
+
+Relic ---> You choose a range of relic sets:
+
+<:hearthfire:1364649706575106078> Hearthfire if you want more heals
+
+<:vertmare:1364649702183665745> Vertmare if you would like to spam his skills (therefore buffs and heals) more often
+
+<:alchemy:1364650043092766780> Alchemy if you want more buffs, but Vertmare would be a better version of Alchemy for Pandora, since he already applies lots of buffs
+
+Main Stats ---> ATK > HP, you want as much ATK as possible, his heals and damage scales on ATK, for secondary stats you can get other defensive stats, some EP would be good so he has more chance to steal buffs from enemies, and maybe some SPD so he can go before other units and buff them, but not important
+
+Enchants ---> ATK and CDMG RES (CDMG RES at lvl 6+ you get Healing Up), then if you get other defensive enchants its very good
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> ER% and <:blue_gem:1383125343837356043> HB%
+
+Arclight ---> His own ex arclight (Aura's Lunch can be used if you dont have his ex arc)
+end guide
+
+
+LAKYUS
+
+
+begin guide lakyus fakyus icitizen 
+image_file:images/lakyus.png
+Available aliases: Lakyus, Fakyus
+
+Lakyus (<:ssr:1383100216755880017> Warrior Class)
+
+
+Optimal star ---> idk i dont have lakyus to check
+
+Relic ---> Old Days to help with her shields
+
+<:vertmare:1364649702183665745> Vertmare to spam her skills more often
+
+<:termination:1364649694571004064> Termination for more damage
+
+Main Stats ---> ATK >> CRIT, CDGM, You need as much ATK as possible, her whole kit scales on her ATK, as for secondary stats you can go for defensive such as HP, RDT, ER...
+
+Enchants ---> ATK, anything else is a bonus, you also want "Iron Shield Wall"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% and <:blue_gem:1383125343837356043> CTR%
+
+Arclight ---> Her own ex arclight
+
+Pro tip: you use her in the same team as momon for double chase on her ult
+end guide
+
+
+9TH SEAT
+
+begin guide the black Scripture 9th seat 
+image_file:images/9th_seat.png
+Available aliases: The Black Scripture 9th Seat, 9th
+
+The Black Scripture 9th Seat (<:sr:1383100378647892100> Ranger Class)
+
+
+Optimal star ---> 6 <:star:1383137564419952730> to clean buffs from target
+
+Relic ---> <:vertmare:1364649702183665745> Vertmare to spam his skill
+
+<:stars_set:1364649696072827001> Start for more damage on assist
+
+<:execution:1364649710681325628> <:termination:1364649694571004064> Execution for more damage since he applies debuffs
+
+Main Stats ---> CRIT > CDMG > ATK > EP > SPD
+
+Enchants ---> Focus on the ones you're lacking on your relics
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% / CDMG% and <:blue_gem:1383125343837356043> ASR%
+
+Arclight ---> His own arclight (you can also use Picnic or Boost morale)
+
+Pro tip: I dont really recommend building this unit, there are better ones even for tm control
+end guide
+
+
+PINISON
+
+
+begin guide pinison pinis fairy dryad 
+image_file:images/pinison.png
+Available aliases: Pinison, Pinis, Fairy, Dryad
+
+
+Pinison (<:ssr:1383100216755880017> Mage Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> to copy debuffs
+
+Relic ---> <:desolation:1364649704528412884> Desolation for more EP and DOTs (if Pinis is 3 or 4 stars)
+
+If Pinis is 5 or 6 stars, you want to use either of these, because you dont wanna her copying bad debuffs:
+
+<:vertmare:1364649702183665745> Vertmare for more CD reset
+
+<:termination:1364649694571004064> Termination for more damage
+
+Main Stats --->  ATK > EP > SPEED, ATK and EP are priority, ideally you want Pinison to go after your other attack units, so they can attack, do their stuff and Pinison comes after them, but before the enemy, to put them to sleep
+
+Enchants ---> ATK and EP, you also want "Stranded" and "One Hit Kill" if you get lucky
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% / EP% , <:orange_gem:1383125181785964675> SPD and <:blue_gem:1383125343837356043> PWR%
+
+Arclight ---> Her own arclight
+end guide
+
+
+ZESSHI
+
+
+begin guide zesshi budget entoma 
+image_file:images/zesshi.png
+Available aliases: Zesshi, Budget Entoma
+
+Zesshi (<:ssr:1383100216755880017> Ranger Class)
+
+
+Optimal star ---> 6 <:star:1383137564419952730> for infinite "assists"
+
+Relic ---> <:termination:1364649694571004064> Termination is the best set for her
+
+<:thunder:1364649700598353960> Thunder can be used as a second option if you lack Termination sets
+
+Main Stats ---> SPD and CRIT > ATK > DMG BOOST > CDMG, Zesshi damage scales a lot on her speed, so even for PvE you want a lot of speed on her
+
+Enchants ---> EP >> CDMG
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% / CDMG% , <:orange_gem:1383125181785964675> SPD and <:blue_gem:1383125343837356043> ASR%
+
+Arclight ---> Her own arclight
+end guide
+
+
+SEBAS
+
+
+begin guide sebas 
+image_file:images/sebas.png
+Available aliases: Sebas
+
+Sebas (<:ssr:1383100216755880017> Warrior Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for more damage on ult
+
+Relic ---> <:termination:1364649694571004064> Termination as first option
+
+<:stars_set:1364649696072827001> Stars if you're using him with a team of Pleiades
+
+Main Stats ---> CRIT > ATK > CDMG > DMG BOOST
+
+Enchants ---> CRIT and ATK, you may also get "Hot Pursuit" if you're using him with a team of Pleiades
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% and <:blue_gem:1383125343837356043> CTR%
+
+Arclight ---> His own arclight
+end guide
+
+
+ECLAIR
+
+
+begin guide eclair penguin lighto pengu 
+image_file:images/eclair.png
+Available aliases: Eclair, Penguin, Pengu
+
+Eclair (<:ssr:1383100216755880017> Priest Class)
+
+Optimal star ---> 4 <:star:1383137564419952730> for more stacks
+
+Relic ---> You can use a set of relics, you decide which one you want to use:
+
+<:alchemy:1364650043092766780> Alchemy - for more buffs
+
+<:maxim:1364649712388411412> Maxim - to slowly clean debuffs
+
+<:hearthfire:1364649706575106078> Hearthfire - to heal more
+
+<:vertmare:1364649702183665745> Vertmare - to heal more often
+
+Main Stats ---> HP and defensive stats
+
+Enchants ---> HP and CDMG RES (CDMG RES at lvl 6+ you get Healing Up)
+
+Gems ---> <:green_gem:1383125488381333654> HP% , <:red_gem:1383125048851824821> ER% and <:blue_gem:1383125343837356043> HB%
+
+Arclight ---> Aura's Lunch or ex arclight
+end guide
+
+
+HORSE MOMON
+
+
+begin guide ranger momon dark momon horse momon 
+image_file:images/horse_momon.png
+Available aliases: Ranger Momon, Dark Momon, Horse Momon
+
+Momon (<:ssr:1383100216755880017> Ranger Class)
+
+
+Optimal star ---> 6 * for more immortality cooldown 
+
+Relic ---> <:termination:1364649694571004064> Termination best overall (Horse Momon has a lot of defense ignore)
+
+<:stars_set:1364649696072827001> Stars if you lack a Termination set
+
+Main Stats ---> CRIT > ATK > SPD > CDMG > DMG BOOST or EP
+
+Enchants ---> Hot Pursuit > EP > CDMG
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% / CDMG% , <:orange_gem:1383125181785964675> SPD and <:blue_gem:1383125343837356043> ASR%
+
+Arclight ---> His own arclight
+end guide
+
+
+TANK HAMSTER
+
+
+begin guide tank hamusuke tank hamster knight hamusuke robot hamusuke 
+image_file:images/tank_hamusuke.png
+Available aliases: Tank Hamusuke, Tank Hamster, Knight Hamusuke, Robot Hamusuke
+
+Hamusuke (<:ssr:1383100216755880017> Knight Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for more stuns, 6 <:star:1383137564419952730> for crazy defense
+
+Relic ---> <:sterling:1364649278865408051> Sterling to increase his defense even more and make your team more tankier
+
+<:red_dragon:1364649355818041444> Red Dragon for mode CD reset
+
+Main Stats ---> 
+
+PvP: SPD > DEF > defensive stats (HP, ER, RDT)
+
+PvE: DEF > SPD > defensive stats (HP, ER, RDT)
+
+Enchants ---> You want DEF and ( EP (for PvP) or ER (for PvE) ), you also want "Almight Penetration"
+
+Gems --->  <:green_gem:1383125488381333654> DEF%, <:red_gem:1383125048851824821> ER%, <:orange_gem:1383125181785964675> SPD and <:blue_gem:1383125343837356043> RDT%
+
+Arclight ---> His own ex arclight
+end guide
+
+
+DARK NABE
+
+
+begin guide dark nabe warrior nabe 
+image_file:images/dark_nabe.png
+Available aliases: Dark Nabe, Warrior Nabe, Nabe
+
+Nabe (<:ssr:1383100216755880017> Warrior Class)
+
+
+Optimal star ---> 6 <:star:1383137564419952730> for extra 2nd skill on ult
+
+Relic ---> <:termination:1364649694571004064> Termination
+
+Main Stats ---> CRIT > CDMG > ATK and DEF > DMG BOOST
+
+Enchants ---> CRIT > ATK and DEF
+
+Gems --->  <:green_gem:1383125488381333654> ATK% / DEF%, <:red_gem:1383125048851824821> CRIT% and <:blue_gem:1383125343837356043> CTR%
+
+Arclight ---> Her own ex arclight
+end guide
+
+
+ANNI ALBEDO
+
+
+begin guide anniversary albedo bday albedo priest albedo healer albedo annibedo giftbedo 
+image_file:images/annibedo.png
+Available aliases: Anniversary Albedo, Priest Albedo, Bday Albedo, Healer Albedo, Annibedo, Giftbedo
+
+Albedo (<:ssr:1383100216755880017> Priest Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> for DMG RDT on herself
+
+Relic ---> <:termination:1364649694571004064> Termination for more damage
+
+<:vertmare:1364649702183665745> Vertmare to reset CD often
+
+Main Stats ---> ATK > > HP > SPD > ER and other defensive stats
+
+Enchants ---> ATK (and some CRIT), you also want "One Hit Kill"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% ,CRIT% and <:blue_gem:1383125343837356043> HB%
+
+Arclight ---> Her own ex arclight
+end guide
+
+
+DARK RENNER
+
+
+begin guide dark renner mage renner freaky renner evil renner frenner 
+image_file:images/dark_renner.png
+Available aliases: Dark Renner, Mage Renner, Freaky Renner, Evil Renner
+
+Rener (<:ssr:1383100216755880017> Mage Class)
+
+
+Optimal star ---> 4 <:star:1383137564419952730> for more damage
+
+Relic ---> <:termination:1364649694571004064> Termination (or Vertmare if you dont have a good Termination set)
+
+Main Stats ---> ATK > CRIT > SPD > EP > CDMG
+
+Enchants ---> ATK and CRIT, you also want "One Hit Kill"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% and <:blue_gem:1383125343837356043> PWR%
+
+Arclight ---> Her own ex arclight
+end guide
+
+
+NIGREDO
+
+
+begin guide nigredo no face mommy faceless mommy scizzor nazarick mommy 
+image_file:images/nigredo.png
+Available aliases: Nigredo, No Face Mommy, Faceless Mommy, No Face, Faceless, Scizzor Mommy, Nazarick Mommy
+
+Nigredo (<:ssr:1383100216755880017> Ranger Class)
+
+
+Optimal star ---> 5 <:star:1383137564419952730> to inflict Gaze at start of battle
+
+Relic ---> <:termination:1364649694571004064> Termination for more damage
+
+<:vertmare:1364649702183665745> Vertmare to inflict Gaze more often
+
+<:stars_set:1364649696072827001> Stars as a last case because of her assists
+
+Main Stats ---> CRIT > CDMG > ATK > EP > SPEED
+
+Enchants ---> CDMG > EP > CRIT or ATK if you need it, you also want "Hot Pursuit"
+
+Gems ---> <:green_gem:1383125488381333654> ATK% , <:red_gem:1383125048851824821> CRIT% / CDMG% and <:blue_gem:1383125343837356043> ASR%
+
+Arclight ---> Her own ex arclight or Picnic
+end guide
+
+
+NIGUN
+
+
+begin guide nigun 
+image_file:images/nigun.png
+Available aliases: Nigun
+
+Nigun (<:sr:1383100378647892100> Priest Class)
+
+
+Optimal star ---> 6 <:star:1383137564419952730> for power at start of battle
+
+Relic ---> Stars for more damage on counters
+
+Termination for more damage overall
+
+Alchemy, Heartfire if he is a support
+
+Main Stats ---> ATK > defensive stats
+
+Enchants ---> (dont enchant) ATK is the most important stats
+
+Gems ---> <:green_gem:1383125488381333654> ATK% and <:red_gem:1383125048851824821> ER%
+
+Arclight ---> His own arclight
+end guide
+end of file

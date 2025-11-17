@@ -1,0 +1,689 @@
+begin list
+Available aliases: ..r / ..realm
+
+Syntax: ..realm <realm type> <stage>
+
+Example: ..r ainz
+		 ..r ainz 35
+		 /realm realm_type:ainz stage:35
+
+Use this command to see how to beat a specific realm stage.
+
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+Special thanks to Naxy and Shanks
+
+(All names and aliases are case insensitive, NAME = name)
+
+
+- Ainz --> Supreme realm
+
+- Touch --> Justice Realm
+
+- Time --> Time Realm
+
+- Pero --> Burst Realm
+end list
+
+
+AINZ REALM
+
+
+begin realm guide ainz supreme 
+image_file:images/ainz.png
+Available aliases: Ainz, Supreme
+
+This is the Ainz Realm guide, please choose a level/elite/boss stage
+
+- Normal stages: 1, 2, 4, 6, 7, 9, 11, 12, 14, 16, etc...
+
+..r ainz normal / ..r ainz 31
+
+
+- Envy stages: 3, 8, 13, 18, 23, 28, etc...
+
+..r ainz envy / ..r ainz 33
+
+
+- Iguva / litch stages: 5, 15, 25, 35, 45, 55
+
+..r ainz litch / ..r ainz iguva / ..r ainz 35
+
+
+- Golem stages: 10, 20, 30, 40, 50, 60
+
+..r ainz golem / ..r ainz 60
+
+end realm guide
+
+
+NORMAL REALM STAGES
+
+
+begin stage guide normal 1 2 4 6 7 9 11 12 14 16 17 19 21 22 24 26 27 29 31 32 34 36 37 39 41 42 44 46 47 49 51 52 54 56 57 59 
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+This realm stage falls in the category of normal stages (non elite and non boss), which means there is no secret to beating any of them.
+
+There's 2 main team comps, first one is: Zesshi - Victim - Mare - Tank Hamster
+
+Strategy: Stun the 2 most dangerous units with Zesshi and Tank Hamster, avoid hitting the one that has Mare's earthseed if possible so you can get an extra seed pop with Mare's ult, make sure to always target the stunned enemy so Zesshi can chase. 
+It's a bit rng because of Victim stuns, but this is the easiest team to 3 * every normal stage
+
+The other main comp is: Zesshi, Mare, Tank Hamster and Lizard (Zaryusu)
+
+Strategy: Basically the same thing as team 1, but less RNG and a bit weaker, you can stun/freeze 3 enemy units, some stages will come very close on the action limit to 3 *
+
+Use scrolls if needed (ATK/SPD and heal scrolls)
+
+Demonstration video at: https://www.youtube.com/playlist?list=PLJrXQYp-3cRQouhK8-PS-M-DP417kAeyI
+Relics at the end of the video
+end stage guide
+
+
+IGUVA STAGES
+
+
+begin stage guide iguva litch 5 15 25 35 45 55 
+image_file:images/iguva.png
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+For Iguva stages the strategy is pretty simple: kill minions, dont hit boss.
+
+Team comp: doesn't change much from the normal stages, but instead of CC you want dps to clear the minions
+
+Boss is super tanky and will eat all your attacks, the way to take him down is by killing his minions, for that you will need some AoE.
+
+Dont simply spam everything, save up some skills for the next wave if the current one is almost dead, target the polearm undead first, as his AoE can do some damage.
+
+SR Hamusuke is a great help on this elite stages because of his DEF DOWN passive, but not required.
+
+Ainz skills to use: Negative Burst, Perfect Preparation, Death Celebration, I Can Be Very Willful
+
+Use scrolls if needed (ATK/SPD and heal scrolls)
+
+Demonstration video at: https://youtu.be/kM0xQwLBggY
+Relics at the end of the video
+end stage guide
+
+
+ENVY STAGES
+
+
+begin stage guide envy 3 8 13 18 23 28 33 38 43 48 53 58  
+image_file:images/envy.png
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+For Envy stages the strategy doesn't change much, the only difference is that there is a boss with the normal units
+
+You may use the comp for the normal stages (with a couple of changes), but be aware that the boss will have some actions, you can't avoid that, so you will need to tank a bit
+
+Ainz skills to use: Negative Burst, Perfect Preparation, Esoteric Mastery, I Can Be Very Willful
+
+Use scrolls if needed (ATK/SPD and heal scrolls)
+
+Demonstration video at: https://youtu.be/CcW5JKnps-w
+Relics at the end of the video
+end stage guide
+
+
+GOLEM STAGES
+
+
+begin stage guide golem 10 20 30 40 50 60 
+image_file:images/golem.png
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+For Golem stages the strategy will change depending on which stage you are in:
+
+- Stages 30 or lower:
+
+	Team comp: Tank Hamster/Valk, SR Hamster, Renner/Healer Clementine, Mage Albedo/Evileye/Lizard
+
+	You will need an AoE dps to clear the small golems the boss contanstly summons, we will use them to fill Ainz action gauge and spam Negative Burst, at half HP the boss will start doing a second AoE skill, if the double AoE becomes an issue you will need to time his half HP when the laser AoE is on cooldown.
+
+	SR Hamster is not reguired, but is very helpful on boss/elite stages on Ainz realms due to being boosted and her DEF DOWN passive.
+	You may swap her for another unit (another AoE dps or single dps, like Entoma or 6 * Zesshi)
+    
+    The laser AoE applies Shackle debuff, which means the unit affected won't be able to act for around 2 turns!!!
+    We can easily avoid that by using Maxim set on our healer!
+    
+    Be aware of your AoE skills, don't mindless spam them! Save some for when the boss summons the small golems, so you can clean them right away.
+
+	Ainz skills to use: Negative Burst, Esoteric Mastery/Perfect Praparation, Death Celebration, I Can Be Very Willful
+
+- Stages 40 or higher (above strat also applies here with additional things):
+
+	Starting from stage 40, the Golem boss gets a new passive: Deals damage according to 1000% of DEF, this is a lot of damage, so we need to bring that defense down....
+    
+    We will use Heart Grasp Ainz skill, as now it can apply HIGHEST TIER DEF DOWN (60% of defense reduced), however it can only happen if the boss already has a DEF DOWN debuff
+    You *will* need an unit that applies either DEF DOWN or HIGH TIER DEF DOWN (Valkyrie Shalltear, Tank Hamster, Albedo with Underworld Forces arclight....)
+    Ideally we want the boss to have HIGHEST TIER DEF DOWN before he acts on turn one, so you might need to mess with you units speed to make this happen.
+    
+    SR Hamusuke will be a great help here, as her DEF DOWN passive although it doesn't count to trigger the Heart Grasp DEF DOWN debuff, does stack with it, bringing the boss DEF and damage even lower
+    
+    Ainz skills to use: Heart Grasp, Perfect Praparation, Death Celebration, I Can Be Very Willful
+    
+- Additional strategy for stage 60:
+
+	Boss will start with all 4 small golems awakened, don't worry about killing them first turn, so you will need to tank a bit of their attacks too
+    
+    Golem boss will also cleanse debuffs on this stage when he summons the small golems, so dont mindless spam your DEF DOWN debuff and Heart Grasp, save them for this occasion
+    
+Use scrolls if needed (ATK/SPD/HP and heal scrolls)
+
+Demonstration video at: https://youtu.be/_FFogxoaQ90
+Relics at the end of the video
+end stage guide
+
+
+TIME AINZ REALM
+
+
+begin realm guide time    
+image_file:images/ainz_time.png
+Available aliases: Time
+
+This is the Time Realm guide, please choose a level/elite/boss stage
+
+- Normal stages: 1, 2, 4, 6, 7, 9, 11, 12, 14, 16, etc...
+
+..r time normal / ..r time 31
+
+
+- Clown stages: 3, 8, 13, 18, 23, 28, etc...
+
+..r time clown / ..r time 33
+
+
+- Wolf stages: 5, 15, 25, 35, 45, 55
+
+..r time wolf / ..r time 35
+
+
+- Scorpion stages: 10, 20, 30, 40, 50, 60
+
+..r time scorpion / ..r time 60
+
+end realm guide
+
+
+NORMAL REALM STAGES
+
+
+begin stage guide normal 1 2 4 6 7 9 11 12 14 16 17 19 21 22 24 26 27 29 31 32 34 36 37 39 41 42 44 46 47 49 51 52 54 56 57 59 
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+This realm stage falls in the category of normal stages (non elite and non boss), which means there is no secret to beating any of them.
+
+There's 2 main team comps, first one is: Zesshi - Victim - Mare - Tank Hamster
+
+Strategy: Stun the 2 most dangerous units with Zesshi and Tank Hamster, avoid hitting the one that has Mare's earthseed if possible so you can get an extra seed pop with Mare's ult, make sure to always target the stunned enemy so Zesshi can chase. 
+It's a bit rng because of Victim stuns, but this is the easiest team to 3 * every normal stage
+
+The other main comp is: Zesshi, Mare, Tank Hamster and Lizard (Zaryusu)
+
+Strategy: Basically the same thing as team 1, but less RNG and a bit weaker, you can stun/freeze 3 enemy units, some stages will come very close on the action limit to 3 *
+
+Use scrolls if needed (ATK/SPD and heal scrolls)
+
+Demonstration video at: https://www.youtube.com/playlist?list=PLJrXQYp-3cRQouhK8-PS-M-DP417kAeyI
+Relics at the end of the video
+end stage guide
+
+
+WOLF STAGES 
+
+
+begin stage guide wolf 5 15 25 35 45 55 
+image_file:images/wolf.png
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+Ah yes, the infamous Wolf stage... on the good old days this stage used to separate the boys from the men, but that time is gone and Wolf isn't so hard anymore!
+
+Summary of strategy: never let boss attack.
+
+May sound crazy but thats the strategy, but how do we do that? Well, it's quite simple! Lots of TM Delay.
+A milked Mare will be required here, he will do all the damage and give lots of TM Delay. Killing small wolves will also give the boss TM Delay, so its a combination of Mare and killing wolves that will keep the boss from attacking!
+
+Wolf will do a lot of damage, specially with his roll skill, easily killing your whole team, how do we prevent that? By getting rid of the stacks.
+Everytime you kill a small wolf, not only does the boss gets TM Delay, but also loses 1 stack, and at 0 stacks everyone can survive the AoE!
+
+So there should only be 2 situations where boss gets to attack: whenever his TM Delay is capped (which means he can't get TM Delay until he acts) or when the boss has 0 stacks.
+
+But what about the small wolves? They are punch bags, you will constantly clear them, ideally they should also not get a turn, on top of doing a lot of damage, they will give the boss TM Boost, which we absolutely don't want. You will need lots of AoE to clear the small wolves
+
+Team comps:
+
+- Mare, Tank CZ, Momon, Tank Hamster
+
+- Mare, Tank CZ, Tank Hamster, Solution
+
+- Mare, Tank CZ, Victim, Zaryusu
+
+Mare will be the dps here, so all the other units should be there to deal some extra damage and support Mare, which means you can put Alchemy on your tanks, and *only* buff mare with Time Ainz buff skill. If you can't deal with the constant small wolves, you might need to work on your Mare, put Termination set, get high crit.
+Pay attention to Mare skills cooldown!
+
+You might also have to tweak with your team speed depending on your comp, to control who goes first and to make sure you can clear the first wave of small wolves. Some rng will be required, such as crits and if you get offensive buffs on Mare (for some reason the gave loves defensive buffs on him).
+
+Wolf 35 will be your hardest stage, so worry about completing it first, then come back with full boost to 3 * i. I've used the same strategy for all wolf stages.
+On Wolf 55, the boss will get permanent buffs after action, so some type of cleasing / extra rng will be helpful
+
+Time Ainz skills to use:
+
+-  Infinite Enhancement, Ready, Battle Frenzy, Magic Amplification (if you're using a ranger) / Time Walker
+
+Use scrolls if needed (SPD scroll)
+Demonstration video at: https://youtu.be/zGMwS42DvCY?si=4ouKIhqRVfUp2ovB
+Relics at the end of the video
+end stage guide
+
+
+CLOWN STAGES
+
+
+begin stage guide clown clowns 3 8 13 18 23 28 33 38 43 48 53 58  
+image_file:images/clowns.png
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+The clowns... they might feel powerful but it has no secrets to beating them!
+
+There are 4 types of clowns:
+
+They all pretty much do the same thing, a single attack and an AoE skill (the skills are ofc different)
+The light red/orange clown is a priest, he has AoE and healing skill.
+
+You should always try to kill red/dark red clowns and umbrella clowns first as they are the most threatening ones.
+
+The clowns are CC immune, meaning you can't stun/freeze them, you can taunt tho, so you will have to tank the clowns.
+
+Team comps:
+
+- Mare, Momon, Armorbedo, Valkyrie/Tank Hamster
+- Mare, Tank Hamster, Tank CZ, Priest Clementine (on stages which support doesn't get ignored, you can make a immortal Tank CZ that will tank everything)
+
+Starting from stage 43, the clowns will get 7 stacks after each action, and those stacks makes the damage go crazy, to get rid of those attacks we need to deal damage, each instance of damage will remove 1 stack, so starting from this stage you wanna make sure to spread your damage so every clown is low on stacks.
+
+Time Ainz skills to use:
+- Stage 38 and bellow: Infinite Enhancement, Night Killer, Battle Frenzy, Time Walker/Magic Amplification
+- Stage 43 and above: Cry of the Banshee, Night Killer, Battle Frenzy, Time Walker/Magic Amplification
+
+Video recorded on a couple of different clown stages, the team mentioned works for all stages (you might need Priest Clementine for)
+Use scrolls if needed (ATK and heal scrolls)
+Demonstration video at: https://youtu.be/IfjS_LVbuiI
+Relics at the end of the video
+end stage guide
+
+
+SCORPION
+
+
+begin stage guide scorpion 10 20 30 40 50 60 
+image_file:images/scorpion.png
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+Ah yes the Scorpion, for starters, ignore the small scorpions, they are simply immortal.
+As for the boss itself, it isn't immortal thankfully!
+
+Everytime the boss attack, it will get stacks, which significantly the damage taken, and to get rid of those stacks if by attacking it! Quite simple right? You wanna make sure to taunt the boss or make him target your tank, his attacks can one shot your dps units if you're not careful, don't need to worry about the small scorpions.
+
+Starting from stage 40, the boss will starts to spam buffs on himself, so you wanna make sure to remove those buffs with Ainz Cry of the Banshee skill, not only does it cleanse buffs, but it also applies buff block, which is absolutely great! Another cleanser will help but not required. Some rng may be required with that buffs the boss gets and which buffs you cleanse.
+
+Team comps:
+
+- Mare, Momon, Armorbedo, Tank Hamster/Valkyrie
+- Mare, Tank CZ, Tank Hamster, Priest Clementine
+- Mare, Tank Hamster, Priest Clementine, single target dps
+
+Time Ainz skills to use:
+- Stage 30 and bellow: Infinite Enhancement, Death is the End of Life, Battle Frenzy, Time Walker/Magic Amplification
+- Stage 40 and above: Cry of the Banshee, Death is the End of Life, Battle Frenzy, Time Walker/Magic Amplification
+
+Use scrolls if needed (ATK and heal scrolls)
+
+Demonstration video at: https://youtu.be/xdHBwXTtZNg
+Relics at the end of the video
+end stage guide
+
+
+TOUCH ME REALM
+
+
+begin realm guide touch me justice 
+image_file:images/touch_me.png
+Available aliases: Touch, Me, Justice
+
+This is the Touch Me Realm guide, please choose a level/elite/boss stage
+
+- Normal stages: 1, 2, 4, 6, 7, 9, 11, 12, 14, 16, etc...
+
+..r touch normal / ..r touch 31
+
+
+- Greed stages: 3, 8, 13, 18, 23, 28, etc...
+
+..r touch greed / ..r touch 33
+
+
+- Fire Elemental stages: 5, 15, 25, 35, 45, 55
+
+..r touch fire / ..r touch elemental / ..r touch 35
+
+
+- Dragon stages: 10, 20, 30, 40, 50, 60
+
+..r touch dragon golem / ..r touch 60
+
+end realm guide
+
+
+NORMAL REALM STAGES
+
+
+begin stage guide normal 1 2 4 6 7 9 11 12 14 16 17 19 21 22 24 26 27 29 31 32 34 36 37 39 41 42 44 46 47 49 51 52 54 56 57 59 
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+This realm stage falls in the category of normal stages (non elite and non boss), which means there is no secret to beating any of them.
+
+There's 2 main team comps, first one is: Zesshi - Victim - Mare - Tank Hamster
+
+Strategy: Stun the 2 most dangerous units with Zesshi and Tank Hamster, avoid hitting the one that has Mare's earthseed if possible so you can get an extra seed pop with Mare's ult, make sure to always target the stunned enemy so Zesshi can chase. 
+It's a bit rng because of Victim stuns, but this is the easiest team to 3 * every normal stage
+
+The other main comp is: Zesshi, Mare, Tank Hamster and Lizard (Zaryusu)
+
+Strategy: Basically the same thing as team 1, but less RNG and a bit weaker, you can stun/freeze 3 enemy units, some stages will come very close on the action limit to 3 *
+
+Use scrolls if needed (ATK/SPD and heal scrolls)
+
+Demonstration video at: https://www.youtube.com/playlist?list=PLJrXQYp-3cRQouhK8-PS-M-DP417kAeyI
+Relics at the end of the video
+end stage guide
+
+
+GREED STAGES
+
+
+begin stage guide greed scythe 3 8 13 18 23 28 33 38 43 48 53 58  
+image_file:images/greed.png
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+Greed used to be a hard stage, but there is no secret to it anymore!
+
+The boss is simple, he has a limit to how many hits he can take before he starts doing counters on every single attack suffered (including assists).
+So not only we need to deal with the constant high damage from the boss counters, but Greed also stuns on counters!
+
+The strategy revolves around a single target dps contanstly hitting the boss, and other 3 units to keep the dps alive (tanks and/or healers)
+We also need to deal with the stuns, there's a couple of ways of doing that:
+
+- Using ER scroll and pray for rng to not get stunned
+
+- Cleanse from our units (Priests, Maxim set, Tank Cocytus shield, Tank CZ supplies)
+
+- Using Touch Me Aoe skill (Descent of Justice) combined with Heart Slash
+
+There's a couple of team comps: 
+
+- Counter Yuri, Tank Cocytus, Tank Hamster and Tank CZ
+- Priest Clementine, Tank Hamster, Tank CZ and Brain
+- Priest Albedo, Tank Hamster, Tank CZ and a single target dps
+
+Mix and match these comps to your need!
+
+The Strategy:
+
+Every stage will have a tank and a healer, we need to CC them, stun tank with Tank Hamster and taunt healer with Tank CZ (if they get a turn to use their skills, you might need to reset and try again). Don't care about the other 2 units, they are no treath, you will focus the boss and use Touch Me AoE skill to kill the other enemies (all those debuffs and enemy buffs getting cleansed will allow you to spam the AoE skill).
+
+On higher stages the boss will get undispelable attack buffs, but the strategy doesn't change, you will need a bit of good rng to 3 * the stages
+
+Touch Me skills to use: Descent of Justice, Magic melting furnace, Heart Slash, Chivalry
+
+Use scrolls if needed (ER and heal scrolls)
+
+Demonstration video at: https://youtu.be/jB4MRnD3e1A?si=3AXTGuDNnk91C83h
+Relics at the end of the video
+end stage guide
+
+
+FIRE ELEMENTAL
+
+
+begin stage guide fire elemental 5 15 25 35 45 55 
+image_file:images/fire_elemental_2.png
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+Fire Elemental stages boils down to one thing: debuffs
+
+The boss constantly gets stacks, which makes him not only tankier, but also deal more damage, the way to remove these stacks is by applying debuffs
+
+The recommended teams can vary a lot, but you *need* debuffs, any type of debuffs, the more the better. It's however, recommended a healer/cleanse unit.
+A very useful unit here is Brain with Desolation set.
+
+Example comps:
+
+- Tank CZ, Tank Hamster, Brain (Termination set), Priest Clementine
+- Tank CZ, Tank Cocytus, Brain (Desolation set), Counter Yuri
+- Bleed Cocytus, Ranger Entoma, Tank CZ, Tank Hamster
+
+Touch Me skills to use: it kinda depends on your comp
+
+- If you need healing: Hero's Debut, Enhanced Armor, Power Attack, Magic Melting Furnace
+- If you need more debuffs: Heaven's Proxy, Enhanced Armor, Power Attack, Magic Melting Furnace
+- If you dont need either: Descent of Justice, Magic melting furnace, Heart Slash, Power Attack
+
+Use scrolls if needed (ATK and heal scrolls)
+
+Demonstration video at: https://youtu.be/Whmsica6LaE
+Relics at the end of the video
+end stage guide
+
+
+3 HEAD DRAGON STAGES
+
+
+begin stage guide dragon 10 20 30 40 50 60 
+image_file:images/dragons.png
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+For Dragon stages, the strategy will change depending on which stage you are in:
+
+Team comps (adjust these to our needs):
+
+- Tank Cocytus, Counter Yuri, Brain, Tank Hamster
+- Tank Hamster, Tank CZ, Brain, Priest Clementine
+- Tank CZ, Brain, Priest Clementine, Single Target DPS
+
+Brain is a very useful unit here due to High Tier Attack down debuff, which lowers significantly the boss damage, and the counters he provide to the team (which will be very helpful on stage 60)
+
+The dragons do a lot of AoE, so you need to be tanky and get some heals, which can be done by: Tank Cocytus captain skill, a healer, or Touch Me Hero's Debut skill
+
+The dragon has 3 heads, whenever one is half hp, it gets enranged, and if one head dies, the dragon goes crazy style and gets some crazy buffs, so you wanna avoid that and only hit the middle.
+
+Stage 30 will be the hardest stage, since the dragon doesnt heal yet, the other heads will die by the counters, nothing we can do about that, you will have to tank it.
+
+Starting from stage 40 the dragon will heal on every action, so we will need Touch Me Heaven's Proxy skill, which inflicts with Heal Block.
+
+If you're using Tank Cocytus, use the shield on 2nd turn, so you get rids of the first wave of debuffs, by that you will get enough actions to Heal Block on turn 2.
+IF you're using Tank Cocytus with no healers, and you're dying, you will need more damage output to stay alive with the captain skill heal
+
+Touch Me skills to use:
+
+- Stage 30 or lower: Hero's Debut/Descent of Justice, Enhanced Armor, Power Attack, Magic Melting Furnace
+
+- Stage 40 or higher: Heaven's Proxy, Enhanced Armor, Power Attack, Magic Melting Furnace
+    
+Use scrolls if needed (ATK and heal scrolls)
+
+Demonstration video at: https://youtu.be/ULlAC2GGxyI
+Relics at the end of the video
+end stage guide
+
+
+PERO REALM
+
+
+begin realm guide pero peroroncino burst
+image_file:images/peroroncino.png
+Available aliases: Pero, Peroroncino, Burst
+
+This is the Pero Realm guide, please choose a level/elite/boss stage
+
+- Normal stages: 1, 2, 4, 6, 7, 9, 11, 12, 14, 16, etc...
+
+..r pero normal / ..r burst 31
+
+
+- Wrath stages: 3, 8, 13, 18, 23, 28, etc...
+
+..r pero wrath / ..r pero 33
+
+
+- Angel stages: 5, 15, 25, 35, 45, 55
+
+..r pero angel / ..r pero 35
+
+
+- Dragon stages: 10, 20, 30, 40, 50, 60
+
+..r pero dragon / ..r pero 60
+
+end realm guide
+
+
+NORMAL REALM STAGES
+
+
+begin stage guide normal 1 2 4 6 7 9 11 12 14 16 17 19 21 22 24 26 27 29 31 32 34 36 37 39 41 42 44 46 47 49 51 52 54 56 57 59 
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+This realm stage falls in the category of normal stages (non elite and non boss), which means there is no secret to beating any of them.
+
+There's 2 main team comps, first one is: Zesshi, Mare, Tank Hamster and Tank CZ 
+
+Strategy: Stun the 2 most dangerous units with Zesshi and Tank Hamster, you can taunt someone with Tank CZ too, make sure to always target the stunned enemy so Zesshi can chase. 
+By far the easiest realm to 3 * all normal stages.
+
+The other main comp is: Zesshi - Victim - Mare - Tank Hamster
+
+Strategy: Basically the same thing as team 1, but less RNG and a bit weaker, you can stun 2 enemy units, you will have to be lucky for mare to not get 1 shot
+
+Use scrolls if needed (ATK/SPD and heal scrolls)
+
+Demonstration video at: https://www.youtube.com/playlist?list=PLJrXQYp-3cRQouhK8-PS-M-DP417kAeyI
+Relics at the end of the video
+end stage guide
+
+
+ANGEL
+
+
+begin stage guide angel 5 15 25 35 45 55 
+image_file:images/angel.png
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+For Angel you will need cleansers or a buff block unit, this is not hard to achieve, Idol will be the main unit here, but not required:
+
+Cleansers: Idol, Maid Albedo, Zesshi, Tank Hamster, Priest Albedo, 
+
+Buff block: Idol and Peshurian (literally last resource)
+
+Everytime the small angels acts, the boss will get buffs, which can stack really quickly and make you life a hell, so we need to cleanse them. Also the boss will get 'Regeration' stacks, which will just make the boss tankier and stronger, to get rid of those we either need buff block or a unit that does chase/assist.
+
+The boss will apply AoE taunt on your units, and said taunt cannot be dispelled or blocked, only Masked Shalltear can avoid that when she is in invisible mode, so you will have to deal with it.
+
+If you're using Masked Shalltear, make sure she does not have the highest ATK stat on your team, so your dps can get the Pero AoE skill assist
+
+Example comps:
+
+- Momon, Idol, Masked Shalltear, Tank Hamster
+- Tank CZ, Zesshi, Victim, Ranger Entoma
+
+Pero skills to use:
+
+- Hurricane Burst, Golden Fantasia, Refreshing Peper (if you're using Masked Shalltear), Hunter's Intuiton (if you're using an assist unit), Ero's Protection (to take less damage from small angels if you need)
+
+Use scrolls if needed (ATK and heal scrolls)
+
+Demonstration video at: https://youtu.be/lSwPa8Re5Q8
+Relics at the end of the video
+end stage guide
+
+
+WRATH STAGES
+
+
+begin stage guide wrath 3 8 13 18 23 28 33 38 43 48 53 58  
+image_file:images/wrath.png
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+This one is a pretty rng stage, you will have to get the timing right.
+
+Masked Shalltear will be required for this stages, unless you find aanother way to constantly get shields every round. When you have shields, you will get DOT Immunity, but thats not all. When Wrath (the boss) gets down to x5 HP bar, it will go crazy style and start spamming AoE attacks every action, if your unit does not have any shields, you will get TM Delay and will basically never act again.
+
+Luckily for us Wrath is rather weak defense wise, any dps can take him down alone, single or AoE.
+
+You will want to time Wrath's x5 HP bar when everyone in your team has shields, on every 4 actions, Masked Shalltear gets a double turn, keep track of this so you can better time the shields.
+
+There's a couple of team comps: 
+
+- Tank CZ, Tank Hamster, Momon, Masked Shalltear
+- Tank CZ, Tank Hamster, Idol, Masked Shalltear
+- Valkyrie Shalltear, Priest Albedo, Ranger Entoma, Masked Shalltear
+
+Pero skills to use:
+
+- Hurricane Burst, Golden Fantasia (if you're using an assist/chase/counter unit), Refreshing Peper, Ero's Protection
+
+Use scrolls if needed (ATK and heal scrolls)
+
+Demonstration video at: https://youtu.be/8bHgCgIKkZk
+Relics at the end of the video
+end stage guide
+
+
+BLEED DRAGON STAGES
+
+
+begin stage guide dragon 10 20 30 40 50 60 
+image_file:images/skeleton_dragon.png
+** As a general disclaimer, no realm stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+Pero 60, the hardest stages on Realm of Shadows, and also the stage where Entoma shines the most. Coincidence? I think not! After all Entoma is the best unit!
+
+Everytime the boss acts, it will get a "Dragon Spirit" stack, this will make the boss deal more damage and take less damage, those can be buff blocked, but cant be cleansed, so how to we deal with them? Using bleed!
+
+Everytime the boss triggers bleed, it will lose 1 stack of "Dragon Spirit", so we need to constantly be triggering bleed, and for that, the enchantment "Riddled with Holes" will be required. On earlier stages its fine, the boss is not that strong so you can deal with some amount of stacks, you can also rely on the Pero skill "Sunfire's Sigh", which will trigger all DoTs on the target.
+
+Important: the dragon is immune to CRIT and TM DELAY, so your damage will be lower than usual.
+
+On stage 60 not only the boss is stronger, but it will also cleanse every debuff from himself upon every action! So that means even more bleed need to be dealt in order to keep up with the damage!
+
+Team comps:
+
+- Bleed Lupusregina, Ranger Entoma, Tank Demiurge/Tank Hamster, Masked Shalltear
+- Bleed Cocytus, Momon, Tank Demiurge/Tank Hamster, Masked Shalltear
+
+The strategy:
+
+You will use Hurricane Burst Pero skill, the High Tier Dmg Boost is so good that the extra bleed trigger from Sunfire's Sigh is not even worth it. 
+
+You will need an assist/chase unit to constantly be doing bleed triggers on the boss, to do that search your relics, and put whatever piece has Riddled with Holes on said unit, even if all 4 of those pieces are from different sets. The more Riddled the better!
+
+Once again, make sure Masked Shalltear does not have the highest ATK stat in your team, you may even remove her arclight and put another one to get rid of her double action to save actions to 3 * the stage. You will also only buff your dps with Masked Shalltear
+
+The strategy is basically this: put Riddled with Holes enchantment on your assist/chase unit, so it can trigger bleed on every assist/chase. If you're using bleed Cocytus, put him as captain for extra bleed.
+
+Always ignore the zombies, focus on boss. Only circumstance you should target zombies is if you're using Lupusregina and they are literally 1 shot, then you can kill them and make the boss trigger bleed.
+
+Pero skill Hurricane Burst has a chance to reset the CD of a random skill from the assisting unit, to take advantage of that to reset CD on your main dps skill whenever its on cooldown.
+
+Pero skills to use:
+
+- Hurricane Burst, Golden Fantasia, Refreshing Peper, Ero's Protection
+
+Use scrolls if needed (ATK and heal scrolls)
+
+Demonstration video at: https://youtu.be/SNgsBJuGiz4
+Relics at the end of the video
+end stage guide
+end of file

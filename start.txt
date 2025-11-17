@@ -1,0 +1,19 @@
+Hello there! This bot will serve as a general guide for Lord of Nazarick. I will help you with information about building characters and PvE content.
+
+I was build by Cellider with the help of the MFTD community to help players with guides on the Lord of Nazarick game.
+
+My prefix is: ..
+
+List of commands (they are all case incentive, NAME = name):
+
+- ..start --> You're on this page right now.
+
+- ..entoma/cutetoma --> Entoma dance.
+
+- ..build --> Guide about building each character.
+
+- ..realm --> Guide about Realm or Shadows
+
+- ..treasury --> Guide about Treasuries
+
+I'm always open for suggestions or corrections, please ping Cellider.

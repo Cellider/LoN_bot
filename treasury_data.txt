@@ -1,0 +1,201 @@
+begin list
+Available aliases: ..t / ..treasury
+
+Syntax: ..treasury <treasury type>
+
+Example: ..t dragon
+		 ..t sterling
+		 /realm realm_type:dragon
+
+Use this command to see how to beat a specific treasury.
+
+** As a general disclaimer, no treasury stage can be beaten by only 1 team, use this to understand each stage strategy and apply this to your team comp **
+
+(All names and aliases are case insensitive, NAME = name, you may also use the relic type as its name)
+
+
+- Dragon --> Red Dragon, Warrior, Sterling
+
+- Fire --> Sunset, Stars, Termination
+
+- Fenn --> Vertmare, Champion, Thunder
+
+- Tree --> Crimson, Desolation, Hearthfire
+
+- Angel --> Alchemy, Execution, Maxim
+
+- Lakyus - Old Days
+end list
+
+
+skeletal dragon sterling red dragon warrior 
+
+
+begin treasury guide skeletal dragon sterling red dragon warrior 
+image_file:images/skeleton_dragon.png
+Available aliases: Skeletal, Dragon, Red, Sterling, Warrior 
+
+For this treasury you will need DoT (damage overtime, shock, bleed and burn)
+
+Sadly we dont have a shock focused team, so your options are either a burn or a bleed team.
+
+The boss gets a Evil Growth upon doing actions, which will make the boss stronger and take less damage, and with 8 stacks the boss will start stunning your team. To lower these stacks we will be using DoTs.
+
+----- Team suggestions -----
+
+Burn team: Magebedo, Mage Demiurge, Tank CZ and Mask Shalltear
+
+Bleed team: Ranger Entoma, Lupusregina, Mask Shalltear and Tank Hamster
+
+Mask will take the leader skill in order to make your team survive because the boss does a lot of damage.
+
+If you're using Burn Team, its recommended to use Desolation set on Magebedo for more DoTs and effectively lower the boss stacks.
+
+It's also recommended that you deal with the zombies, because once 2 turns have passed since the boss summoned them, they will do and AoE explosion, doing a lot of damage.
+
+Use scrolls if needed (ATK and heal scrolls)
+
+Demonstration video at: https://youtu.be/RnOiUnKfL9Y?si=SbPw85Owfdmkbp4-
+Relics and Ainz skills at the end of the video
+end stage guide
+
+
+primal fire elemental sunset stars termination 
+
+
+begin treasury guide primal fire elemental sunset stars termination
+image_file:images/fire_elemental.png
+Available aliases: Primal, Fire, Elemental, Sunset, Stars, Termination
+
+You can go 2 routes on defeating this treasury stage: chase/assist or mage.
+
+----- Team suggestions -----
+
+Chase/Assist team: Momon, Ranger Entoma (or another assist unit), Tank CZ and another tank
+
+Mage team: Mare, Idol Shalltear (or 5 * Solution), Tank CZ and another tank
+
+This boss will slowly put your units into a fire cage (starting with your tanks), and the only way to free them is to do chase and assists to lower the cage stacks, once the unit is in a cage they are effectively removed from the battle until they are freed from the cage.
+
+The other way to deal with this is: kill the boss before that happens, for this we will use TM Delay skills, this will rely specially on Mare skills and seeds, it's recommended to put Mare on a Vertmare set if you dont have the damage to kill the boss fast enough.
+
+Tank CZ is recommended to cleanse the burn debuff from the boss, as that might be enough to wipe your team.
+
+Use scrolls if needed (ATK and heal scrolls)
+
+Demonstration video at: https://youtu.be/qDm1rJonN04?si=QFD6emyjr2pgviDz
+Relics and Ainz skills  at the end of the video
+end stage guide
+
+
+fenn wolf vertmare champion thunder 
+
+
+begin treasury guide fenn wolf vertmare champion thunder 
+image_file:images/fenn.png
+Available aliases: Fenn, Wolf, Vertmare, Champion, Thunder
+
+----- Team suggestions -----
+
+Mage and Single DPS team: Tank CZ, Tank Hamster, Mare, single dps 
+
+Full Mage team: Mare, Idol Shalltear (or another mage), Tank CZ and Mask Shalltear
+
+Mix and match these teams to your need, tho Tank CZ is recommended to empower your team.
+
+This stage has a lot of damage sharing enemy wise, so doing a lot of AoE will be required.
+
+It's also recommended to use Mare on Vertmare set if you lack the damage to kill the boss quickly.
+
+Your team will get inflicted with cold stacks, and the way to deal with them is by killing the red orbs to get your hp back.
+
+Use scrolls if needed (ATK and heal scrolls)
+
+Demonstration video at: https://youtu.be/zAzQjbOZvos?si=T64YXBUgIA90ZeU_
+Relics and Ainz skills at the end of the video
+end stage guide
+
+
+devil tree crimson desolation hearthfire
+
+
+begin treasury guide devil tree crimson desolation hearthfire
+image_file:images/tree.png
+Available aliases: Devil, Tree, Crimson, Desolation, Hearthfire
+
+This boss will constantly create a big shield to protect it from any harm, and to deal with this shield by simply doing damage is effortless, so we use DEF DOWN instead!
+
+Characters suck as Tank Hamster and Tank Shalltear (and Warrior Nabe) have DEF DOWN skills which will be used to take down the boss shields.
+
+On top of that, the boss AoE does a lot of damage, so its recommended to use 3 Tanks and a single target dps.
+
+----- Team Suggestion ----- 
+
+Tank CZ, Tank Hamster, Tank Cocytus and a single target dps
+
+On top of using these DEF DOWN units, we will also use Touch Me "Descent of Justice" to get even more DEF DOWN on the boss.
+
+Save your DEF DOWN skills for when the boss has the shield active, as that will instantly lower the boss shield (you might need to execute an action to make the shield value update correctly after using DEF DOWN skill)
+
+Use scrolls if needed (ATK and heal scrolls)
+
+Demonstration video at: https://youtu.be/RpQA-AHAEWo?si=LcuHsI3WIIf46MP6
+Relics and Touch Me skills at the end of the video
+end stage guide
+
+
+angel alchemy execution maxim 
+
+
+begin treasury guide angel alchemy execution maxim 
+image_file:images/angel.png
+Available aliases: Angel, Alchemy, Execution, Maxim
+
+This boss will work around counters and shields. 
+
+Brain will be very helpful on dealing with this boss, as it will provide the team with the counters that it needs and debuff the boss ATK.
+
+----- Team Suggestions -----
+
+Full counter: Brain, Tank Cocytus, Counter Yuri and Tank Hamster
+
+Single target comp: Brain, Tank CZ, Single Target DPS and Healer Clementine.
+
+Mix and match these teams to your need.
+
+You will need some short of dispel for this boss as it will be getting permanent buffs, so either use a unit with dispel or Touch Me "Shining Slash" combine with "Heart Slash", and since this treasury works around counter, might as well use Touch Me to help you.
+
+Don1t worry about the small angels, they are super tanky and not worth the effort.
+
+
+Use scrolls if needed (ATK and heal scrolls)
+
+Demonstration video at: https://youtu.be/U-QUwbxoSU0?si=S4cdak0u7pbJDSR0
+Relics and Touch Me skills at the end of the video
+end stage guide
+
+
+lakyus old days
+
+
+begin treasury guide lakyus old days
+image_file:images/lakyus_boss.png
+Available aliases: Lakyus, Old Days
+
+This boss is a pain, it's SUPER tanky and does a lot of damage.
+
+Healer Clementine will be required for this treasury
+
+----- Team Suggestion -----
+
+Healer Clementine, Tank CZ, Tank Hamster and a single target
+
+Having 2 tanks and Healer Clementine will be the minimum to survive the constantly onslaught of tentacle attacks on phase 1, using mages and AoE units will get you nowhere, and as such, a strong single target dps (such as Momon or Ranger Entoma) will be required to beat the boss.
+
+On second phase the boss will be weaker, but it will be even more dangerous because of the stacks it gains, and once enough is reached, Lakyus will launch a big damage attack on your team, so a bit of luck with Tank CZ taunts might be required. You also need to destroy the shield to reduce the number of stacks the boss gets. it's basically a time bomb.
+
+Use scrolls if needed (ATK and heal scrolls)
+
+Demonstration video at: https://youtu.be/P0h77lhAvGc?si=eCJJY8zn3G0_szlp
+Relics and Ainz skills at the end of the video
+end stage guide
