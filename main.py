@@ -28,25 +28,15 @@ def denied_embed(ctx):
 		)
 	embed.set_image(url="https://c.tenor.com/s0Mmgevkvl0AAAAd/tenor.gif")
 	return embed
-    
-    
-inazuma = 537372854942171156
-pika = 1039723936188989551
-azureknights = 1412919528630784054
-darkknights = 1312988977191583784
-carnagehub = 654218111003787264
-deathquest = 894709957419757620
-ncis = 1300731133495087154
 
-allowed_servers = [inazuma, deathquest, ncis, pika, azureknights, darkknights, carnagehub]
+allowed_servers = []
 # set the prefix
 bot = commands.Bot(command_prefix="..", intents=intents, help_command=None)
 # remove default help command
 
 # not sure what to do with this, but it might be needed someday
 perm_int = 431913036864
-#set channel id, aka mfdt channel to only send there the conquest warning
-channel_id = 930944141154738186
+
 
 page_num = 0
 original_message = ''
@@ -107,9 +97,6 @@ async def help(ctx):
 async def hello(ctx):
     # if user who typed is dt
 	if ctx.message.guild.id in allowed_servers:
-		if ctx.author.id == 190228540736798720:
-			await ctx.send("Hello Pika")
-		else:
 			await ctx.send(f"Hello {ctx.author}")
 	else:
 		embed = denied_embed(ctx)
@@ -475,4 +462,4 @@ async def build(ctx, treasury_type = " "):
 		await ctx.send(embed=embed) 
         
 
-bot.run("MTM0ODY5NDMyNjE1NDM2MjkwMA.Gio17v.QYSGIQ5-lUZvHNasxu7Qa0W1UwjF5xTq0VxMJ0")
+bot.run(#write your bot token here)
